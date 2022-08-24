@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-patil-17216a210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-patil-17216a210/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/saurabhpatil459/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saurabhpatil459/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saurabh patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh patil" height="30" width="40" /></a>
+<a href="https://instagram.com/saurabhpatil459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabhpatil459" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/100rabh_patila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/100rabh_patila/" height="30" width="40" /></a>
 </p>
 
